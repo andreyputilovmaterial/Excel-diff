@@ -1,3 +1,6 @@
+# Deprecated
+Please use MDM-Diff-Py instead
+
 # Excel-diff
 A simple script to compare Excel files
 
